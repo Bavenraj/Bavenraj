@@ -1,5 +1,4 @@
-### Hi there 👋
-👋 Hello World! I'm [Your Name], a passionate student on a journey through the exciting realms of data analytics and data science. 🚀
+				# Hi there 👋, I'm Bavenraj, a passionate student on a journey through the exciting realms of data analytics and data science. 🚀
 
 📚 Currently enrolled in [Your University/Institution], I am immersing myself in the world of numbers, patterns, and insights. My enthusiasm for data is not just confined to the classroom - I constantly seek opportunities to apply my knowledge and explore the ever-evolving landscape of data-driven solutions.
 
