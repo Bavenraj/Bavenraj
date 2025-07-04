@@ -2,11 +2,11 @@
 
 <h2 align="center"> A passionate student on a journey through the exciting realms of data analytics/science. 🚀 </h2>
 
-📚 Currently enrolled in HELP UNIVERSITY, I am immersing myself in the world of numbers, patterns, and insights. My enthusiasm for data is not just confined to the classroom - I constantly seek opportunities to apply my knowledge and explore the ever-evolving landscape of data-driven solutions.
+📚 Junior Stats Op at NielsenIQ with a growing passion for data. I enjoy exploring datasets, finding patterns, and turning numbers into stories that make sense.
 
-💡 I thrive on the challenge of unraveling complex datasets, transforming them into meaningful narratives, and extracting actionable insights. From cleaning and wrangling data to deploying machine learning models, I enjoy the entire data science pipeline.
+💡 Always curious and love learning new things in the world of data — from cleaning and analyzing to visualizing and even trying out some Data Engineering. Just here to build, explore, and keep getting better at it.
 
-🌐 Apart from the structured world of data, I'm an avid explorer of the uncharted. I love delving into new technologies, frameworks, and methodologies, always eager to broaden my skill set and embrace the latest innovations in the field.
+🌐 I believe there's always room for growth, as long as you choose not to give up.
 <!--
 <link
   rel="stylesheet"
