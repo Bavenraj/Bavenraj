@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, I'm Bavenraj Partipan</h1>
 
-<h2 align="center"> A passionate student on a journey through the exciting realms of data analytics/science. 🚀 </h2>
+<h2 align="center"> A passionate learner on a journey through the exciting realms of data analytics/science. 🚀 </h2>
 
 📚 Junior Stats Op at NielsenIQ with a growing passion for data. I enjoy exploring datasets, finding patterns, and turning numbers into stories that make sense.
 
