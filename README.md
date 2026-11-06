@@ -2,7 +2,7 @@
 
 <h2 align="center"> A passionate learner on a journey through the exciting realms of data analytics/science. 🚀 </h2>
 
-📚 Junior Stats Op at NielsenIQ with a growing passion for data. I enjoy exploring datasets, finding patterns, and turning numbers into stories that make sense.
+📚 Senior Analyst at NielsenIQ with a growing passion for data. I enjoy exploring datasets, finding patterns, and turning numbers into stories that make sense.
 
 💡 Always curious and love learning new things in the world of data — from cleaning and analyzing to visualizing and even trying out some Data Engineering. Just here to build, explore, and keep getting better at it.
 
